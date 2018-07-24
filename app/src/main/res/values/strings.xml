@@ -1,0 +1,35 @@
+<resources xmlns:Note="urn:oasis:names:tc:xliff:document:1.2" xmlns:Users="http://schemas.android.com/tools">
+    <string name="app_name">PalleVelugu</string>
+    <string name="from_name">FROM:</string>
+    <string name="to_name">TO:</string>
+    <string name="button">Get Fare</string>
+    <string name="hint">Please swipe your T-card</string>
+    <string name="title_activity_navigation_bar">NavigationBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="quote">"Stay Safe-Save Money"</string>
+    <string name="suggest">First time login?Click here</string>
+    <string name="help">help</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        For New Users:
+        All the users will receive an envelope from AP Government instructing them to use the new T-card
+        facilities offered by the government for the convenient transaction of money between the bus
+        conductors and the individuals.
+        There is a unique user id and hidden passwords in enclosed envelope.The users must first
+        login with credentials endorsed in the envelope and later they can change their user id and
+        password as their wish.
+        Note:Do not reveal the password to any other persons,organisations.Incase of any negligence,
+        legal actions will be taken and a fine of Rs.50000 will be charged for the guilts.
+
+    </string>
+
+    <string name="amount">Enter amount:</string>
+
+
+    <!-- Strings related to login -->
+
+</resources>
